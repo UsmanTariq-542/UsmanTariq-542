@@ -51,8 +51,8 @@ automation, and full-stack (MERN) development.
 
 ## 📊 GitHub Analytics
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanTariq-542&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanTariq-542&layout=compact&theme=tokyonight)
+![Usman's GitHub stats](https://github-readme-stats-rho-eight-2hsuwagc6m.vercel.app/api?username=UsmanTariq-542&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-rho-eight-2hsuwagc6m.vercel.app/api/top-langs/?username=UsmanTariq-542&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=UsmanTariq-542&theme=tokyonight&hide_border=true)
 
 ### 🐍 Contribution Snake
