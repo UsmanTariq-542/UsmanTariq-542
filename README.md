@@ -15,7 +15,7 @@ automation, and full-stack (MERN) development.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Final-year Software Engineering student at **PUCIT**
 - 🧠 Focused on **Agentic AI** — LangGraph, LangChain, LangSmith
@@ -30,7 +30,7 @@ automation, and full-stack (MERN) development.
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,csharp,dotnet,react,nodejs,express,mongodb,js,html,css,tailwind,git,github,docker)
+![Skills](https://skillicons.dev/icons?i=cpp,py,cs,dotnet,react,nodejs,express,mongodb,js,html,css,tailwind,git,github,docker)
 
 **Agentic AI:** LangGraph · LangChain · LangSmith · Groq · Google Gemini
 **Automation:** n8n
