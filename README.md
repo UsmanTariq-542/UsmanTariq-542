@@ -1,83 +1,68 @@
-<h1 align="center">Muhammad Usman Tariq</h1>
-<h3 align="center">Software Engineering Student | Backend Developer | 180+ LeetCode Problems | AI/ML Enthusiast</h3>
+<div align="center">
+
+# Hi, I'm Usman Tariq 👋
+
+### Backend-First Developer · Building Agentic AI & Full-Stack (MERN) Systems
+
+I build production backend systems and I'm now channeling that into agentic AI,
+automation, and full-stack (MERN) development.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-usman--tariq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-usman-tariq-m542/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Usman_Tariq/)
+[![GitHub](https://img.shields.io/badge/GitHub-UsmanTariq--542-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UsmanTariq-542)
+
+</div>
 
 ---
 
-## Quick Introduction
+## 🚀 About Me
 
-I am a Software Engineering student at PUCIT with strong problem-solving skills and a deep interest in backend development.  
-I specialize in building backend systems using ASP.NET and SQL Server and solving algorithmic problems using C++ and Python.
-
-I am currently looking for a **Software Engineering Internship (Backend / .NET / Problem Solving focused roles).**
-
----
-
-## What Makes Me Different
-
-- Solved **180+ problems on LeetCode** (strong DSA foundation)
-- Built real-world backend project using **ASP.NET MVC + SQL Server**
-- Strong understanding of **OOP, Data Structures, and Algorithms**
-- CGPA **3.5+ in Software Engineering**
-- Teaching Assistant for Programming Fundamentals
+- 🎓 Final-year Software Engineering student at **PUCIT**
+- 🧠 Focused on **Agentic AI** — LangGraph, LangChain, LangSmith
+- ⚙️ Backed by real backend experience — **ASP.NET Core, SignalR, SQL Server**
+- 🔁 Also building with **n8n** — automated my own DSA-tracking workflow end-to-end
+- 🌱 Currently deepening full-stack (**MERN**) skills via DevWeekends Summer Fellowship 2026
+- 👨‍🏫 Volunteered as a TA for Programming Fundamentals
+- 🏆 230+ LeetCode problems solved · prepping for **ICPC 2026-27**
+- 🤝 Open to Full Stack (MERN) & Agentic AI roles, hackathon collabs, and volunteering
 
 ---
 
-## Featured Project
+## 🛠️ Tech Stack
 
-### BidSphere – Real-Time Online Auction Platform
+![Skills](https://skillicons.dev/icons?i=cpp,python,csharp,dotnet,react,nodejs,express,mongodb,js,html,css,tailwind,git,github,docker)
 
-A real-time online auction system where users can participate in live bidding with secure authentication and automatic bid tracking.
-
-**Key Features**
-- Real-time bidding using WebSockets
-- Secure authentication using Microsoft Identity
-- User dashboard for managing active and won auctions
-- Admin panel for auction management
-
-**Tech Stack:** ASP.NET MVC | C# | SQL Server | WebSockets | Bootstrap | jQuery
-
-GitHub Repo: https://github.com/UsmanTariq-542/BidSphereRepo
+**Agentic AI:** LangGraph · LangChain · LangSmith · Groq · Google Gemini
+**Automation:** n8n
+**ML Foundations:** Andrew Ng's ML Specialization (Supervised ML, Advanced Learning Algorithms)
 
 ---
 
-## Technical Skills
+## 📌 Featured Projects
 
-**Languages:** C++, Python, C#  
-**Backend:** ASP.NET MVC, .NET Core  
-**Frontend:** HTML, CSS, JavaScript, Bootstrap  
-**Databases:** SQL Server, Oracle  
-**AI / Machine Learning:** NumPy, TensorFlow  
-
----
-
-## Currently Improving
-
-- Advanced Data Structures & Algorithms
-- Backend development using ASP.NET Core
-- Machine Learning (Andrew Ng Specialization)
-- Writing cleaner and more scalable code
+| Project | Description | Stack |
+|---|---|---|
+| 🏛️ [BidSphere](https://github.com/UsmanTariq-542/BidSphereRepo) | Real-time auction platform with live bidding — deployed | ASP.NET Core, SignalR, SQL Server |
+| 🤖 LangGraph Chatbot | Production conversational agent, SQLite persistence, LangSmith tracing | LangGraph, Groq, SQLite |
+| 🔄 DSA_Notion_Sheet | n8n automation solving my own DSA-tracking problem — auto-fetches LeetCode, analyzes, pushes to GitHub + Notion | n8n, GitHub API, Notion API |
+| 📚 Dev-Weekends-DSA-roadmap | 230+ solved DSA problems, documented with approach + complexity notes | C++ |
 
 ---
 
+## 📊 GitHub Analytics
 
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanTariq-542&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanTariq-542&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=UsmanTariq-542&theme=tokyonight&hide_border=true)
 
-## Looking For
+### 🐍 Contribution Snake
 
-I am actively looking for:
-- Software Engineering Internship
-- Backend Development Internship
-- .NET Developer Internship
-- Problem Solving / DSA focused roles
-
----
-
-## Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/m-usman-tariq-m542/  
-LeetCode: https://leetcode.com/u/Usman_Tariq/  
-GitHub: https://github.com/UsmanTariq-542  
-Email: usmanoffic2005@gmail.com  
+![snake gif](https://raw.githubusercontent.com/UsmanTariq-542/UsmanTariq-542/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐ If you are a recruiter or developer and interested in my work, feel free to connect with me.
+<div align="center">
+
+### 💬 Let's build something together — open to collabs, hackathons, and good causes.
+
+</div>
