@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Usman Tariq 👋
+# Hi, I'm Muhammad Usman Tariq 👋
 
 ### Backend-First Developer · Building Agentic AI & Full-Stack (MERN) Systems
 
