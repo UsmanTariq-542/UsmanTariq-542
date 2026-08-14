@@ -23,7 +23,7 @@ automation, and full-stack (MERN) development.
 - 🔁 Also building with **n8n** — automated my own DSA-tracking workflow end-to-end
 - 🌱 Currently deepening full-stack (**MERN**) skills via DevWeekends Summer Fellowship 2026
 - 👨‍🏫 Volunteered as a TA for Programming Fundamentals
-- 🏆 230+ LeetCode problems solved · prepping for **ICPC 2026-27**
+- 🏆 230+ LeetCode problems solved · 
 - 🤝 Open to Full Stack (MERN) & Agentic AI roles, hackathon collabs, and volunteering
 
 ---
